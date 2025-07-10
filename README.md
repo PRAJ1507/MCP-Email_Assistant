@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 # MCP-Email-Assistant
-=======
+
 # Email MCP Assistant
 
 A **LangGraph + MCP hybrid** email automation assistant that combines the power of LangGraph workflow orchestration with the Model Context Protocol (MCP) for seamless AI integration.
