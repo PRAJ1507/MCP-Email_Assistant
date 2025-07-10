@@ -1,0 +1,16 @@
+aioimaplib
+aiosmtplib
+apscheduler
+fastapi
+graphviz
+langchain
+langchain-ollama
+langgraph
+mcp
+oauthlib
+pydantic
+python-dotenv
+requests-oauthlib
+uvicorn
+authlib
+starlette

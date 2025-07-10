@@ -1,0 +1,7 @@
+{
+    "name": "run_email_automation_workflow",
+    "arguments": {
+      "max_emails": 3,
+      "tone": "polite"
+    }
+  }
