@@ -218,4 +218,3 @@ EMAIL_PASSWORD=your-app-password-or-access-token
 - Paste the value into your `.env` file as `SESSION_SECRET_KEY`. 
 
 - The MCP server is now based on FastMCP (a drop-in replacement for FastAPI for MCP tools).
->>>>>>> a88ac49 (Initial commit)
